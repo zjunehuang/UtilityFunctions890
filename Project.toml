@@ -1,0 +1,13 @@
+name = "UtilityFunctions890"
+uuid = "7c45e384-abfc-4d44-bb46-f750c1939394"
+authors = ["zjunehuang <83677983+zjunehuang@users.noreply.github.com> and contributors"]
+version = "0.1.0"
+
+[compat]
+julia = "1"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
