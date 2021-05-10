@@ -3,6 +3,9 @@ uuid = "7c45e384-abfc-4d44-bb46-f750c1939394"
 authors = ["zjunehuang <83677983+zjunehuang@users.noreply.github.com> and contributors"]
 version = "0.1.0"
 
+[deps]
+Interpolations = "a98d9a8b-a2ab-59e6-89dd-64a1c18fca59"
+
 [compat]
 julia = "1"
 
